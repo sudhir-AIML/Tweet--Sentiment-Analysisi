@@ -1,6 +1,5 @@
 # Twitter Sentiment Analysis - NLP
 
-**Complete Video Tutorial:** https://youtu.be/RLfUyn3HoaE
 
 # Dataset Information
 
